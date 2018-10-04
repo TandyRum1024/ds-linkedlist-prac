@@ -1,0 +1,14 @@
+include <iostream>
+using namespace std;
+
+typedef struct LNK_NODE
+{
+	int x;
+	Node* next;
+}Node;
+
+int main (void)
+{
+	
+	return 0;
+}
